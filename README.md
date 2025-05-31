@@ -29,14 +29,6 @@ AI & Tools  : OpenAI APIs • LangChain • Jupyter • Postman • Figma
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| [WordPress CDN Plugin](https://github.com/ananthpranav/wp-s3-offloader) | Smart plugin to auto-upload static assets to S3 Bucket | PHP, AWS SDK, S3 |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
